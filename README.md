@@ -1,2 +1,2 @@
 # World-Happiness
-Analyzing World Happiness Report for INFO212
+Analyzing World Happiness Report using Data Science Techniques
